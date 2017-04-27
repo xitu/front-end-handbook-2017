@@ -1,4 +1,5 @@
 # Learn Multi-Device Development
+# 学习
 
 ![](../images/things.jpg "http://bradfrost.com/blog/post/this-is-the-web/")
 
