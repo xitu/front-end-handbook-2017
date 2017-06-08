@@ -3,6 +3,10 @@
 [![掘金翻译计划](https://rawgit.com/aleen42/badges/master/src/juejin_translation.svg)](https://github.com/xitu/gold-miner/)
 [![沪江Web前端团队](https://cdn.rawgit.com/Hujiang-FE/icons/fff32467/logo.svg)](https://github.com/hujiang-fe)
 
+> 感谢参与翻译的译者们（排名不分先后）：[blueken](https://github.com/blueken)、[brucecham](https://github.com/brucecham)、[cfanlife](https://github.com/cfanlife)、[DDU1222](https://github.com/DDU1222)、[LittlePineapple](https://github.com/LittlePineapple)、[MatildaJin](https://github.com/MatildaJin)、[MAYDAY1993](https://github.com/MAYDAY1993)、[pobusama](https://github.com/pobusama)、[yanyixin](https://github.com/yanyixin)、[zhouyao](https://github.com/zhouyao)。
+
+> 关于译者：生于忧患，死于安乐。沪江翻译小组其行十人，技术参差，然其心一也。前端技术博大精深，旁枝末节，种类繁多，然学习之道，不进则退。每思及此，遑遑不可终日，于闲暇时笔耕不辍，月余，得此书中译本。秉持利人利己的美好心愿，此举志在为前端社区贡献绵薄之力，策人策己皆有所裨益。期间翻译、校对、统筹、整理、再审，各方助力，不一而足。与君共勉。
+
 ![cover-img](http://frontendmasters.com/books/front-end-handbook/2017/cover.jpg)
 
 作者：[科迪·林黎（Cody Lindley）](http://codylindley.com/)，由[「前端大师（Frontend Masters）」](https://frontendmasters.com/)倾情赞助。
