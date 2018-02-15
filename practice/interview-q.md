@@ -17,8 +17,8 @@
 ##### 面试准备:
 
 * [2017 年 Web 前端开发面试前的准备](http://davidshariff.com/blog/preparing-for-a-front-end-web-development-interview-in-2017/)
-* [Interview Cake](https://www.interviewcake.com/) [$]
-* [Cracking the front-end interview](https://medium.freecodecamp.com/cracking-the-front-end-interview-9a34cd46237)
+* [Interview Cake 网站](https://www.interviewcake.com/) [$]
+* [前端面试葵花宝典](https://medium.freecodecamp.com/cracking-the-front-end-interview-9a34cd46237)
 
 
 
